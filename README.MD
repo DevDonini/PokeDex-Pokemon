@@ -33,4 +33,4 @@ Projeto é baseado em uma PokeDex, que mostra todos os Pokémons da primeira ger
 <a href="https://pokeapi.co/" target="_blank">PokeAPI</a><br>
 <a href="https://github.com/digitalinnovationone/js-developer-pokedex" target="_blank">Repositório base do projeto</a><br>
 
-   
+   j
