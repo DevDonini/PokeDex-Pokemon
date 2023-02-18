@@ -19,7 +19,7 @@ Projeto é baseado em uma PokeDex, que mostra todos os Pokémons da primeira ger
     *  `Request Headers` que é o cabeçalho da requisição
     *  `Request Body` que é o corpo de alguns tipos de requisição
     *  `Status Code` que indica o que houve com a  requisição  
-      Imagens do Site**
+*  **Imagem Do Site**
     ![index-screenshot](https://user-images.githubusercontent.com/106184297/219899832-2bef5583-b01f-4bc0-be34-13e33a557e88.png)
     
     **Mais informações**
