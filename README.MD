@@ -29,7 +29,11 @@ Projeto é baseado em uma PokeDex, que mostra todos os Pokémons da primeira ger
 *  **<h2>Links</h2>**
 
 <a href="https://www.dio.me/" target="_blank">Site de Cursos e Bootcamps</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API" target="_blank">Visit W3Schools</a>
+
 <a href="https://pokeapi.co/" target="_blank">PokeAPI</a>
+
 <a href="https://github.com/digitalinnovationone/js-developer-pokedex" target="_blank">Repositório base do projeto</a>
+
    
