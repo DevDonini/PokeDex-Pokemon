@@ -22,10 +22,12 @@ Projeto é baseado em uma PokeDex, que mostra todos os Pokémons da primeira ger
 *  **<h2>Imagem Do Site</h2>**
     ![index-screenshot](https://user-images.githubusercontent.com/106184297/219899832-2bef5583-b01f-4bc0-be34-13e33a557e88.png)
     
-    **Mais informações**
+*    **Mais informações**
     
     Projeto Realizado pelo Bootcamp Orange Tech + encontrado no link mencionado: https://web.dio.me/track/orange-tech
    
-   **Links**
+*   **Links**
+
+<a href="https://www.dio.me/">Site de Cursos e Bootcamps/>
    
    
