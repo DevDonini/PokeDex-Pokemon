@@ -1,6 +1,4 @@
-#  Pokédex
-
-##  Descrição
+# ![poke_trainer_three_star_icon-icons com_67512](https://user-images.githubusercontent.com/106184297/219900831-d428c97f-6047-4bab-ae7a-3aa81591bd16.png)  Pokédex ![snorlax_icon-icons com_67505](https://user-images.githubusercontent.com/106184297/219900814-7d4ce2b7-8828-4968-b585-af50c4bb4c22.png)
 
 Projeto é baseado em uma PokeDex, que mostra todos os Pokémons da primeira geração.
 
@@ -19,7 +17,7 @@ Projeto é baseado em uma PokeDex, que mostra todos os Pokémons da primeira ger
     *  `Request Headers` que é o cabeçalho da requisição
     *  `Request Body` que é o corpo de alguns tipos de requisição
     *  `Status Code` que indica o que houve com a  requisição  
-*  **<h2>Imagem Do Site</h2>**
+*  **<h2>Imagem Do Site</h2>** 
     ![index-screenshot](https://user-images.githubusercontent.com/106184297/219899832-2bef5583-b01f-4bc0-be34-13e33a557e88.png)
     
     
